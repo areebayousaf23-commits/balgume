@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.flag {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.black {
+    background-color: black;
+    width: 33.33%;
+}
+
+.yellow {
+    background-color: #FFD700;
+    width: 33.33%;
+}
+
+.red {
+    background-color: red;
+    width: 33.33%;
+}
